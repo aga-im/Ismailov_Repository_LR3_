@@ -18,10 +18,10 @@ int getB() {
 }
 
 int getC() {
-    /*int c;
+    int c;
     cout << "Enter integer C: ";
     cin >> c;
-    return c;*/
+    return c;
 }
 
 int calculateSum(int a, int b) {

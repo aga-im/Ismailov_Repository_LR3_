@@ -33,7 +33,7 @@ int calculateRemainder(int sum, int c) {
 }
 
 int calculateIntegerPart(int sum, int c) {
-    /*return sum / c;*/
+    return sum / c;
 }
 
 int main() {

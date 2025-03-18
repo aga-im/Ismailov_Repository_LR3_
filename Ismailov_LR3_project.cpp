@@ -4,10 +4,10 @@
 using namespace std;
 
 int getA() {
-    /*int a;
+    int a;
     cout << "Enter integer A: ";
     cin >> a;
-    return a;*/
+    return a;
 }
 
 int getB() {

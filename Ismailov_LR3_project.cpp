@@ -27,9 +27,9 @@ int getC() {
 int calculateSum(int a, int b) {
     return a + b;
 }
-//sdsaddsdsa
+
 int calculateRemainder(int sum, int c) {
-    /*return sum % c;*/
+    return sum % c;
 }
 
 int calculateIntegerPart(int sum, int c) {

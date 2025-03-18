@@ -11,10 +11,10 @@ int getA() {
 }
 
 int getB() {
-    /*int b;
+    int b;
     cout << "Enter integer B: ";
     cin >> b;
-    return b;*/
+    return b;
 }
 
 int getC() {
